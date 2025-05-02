@@ -25,8 +25,3 @@ def combinations(coins: list[int], sum: int) -> int:
     return dp[sum]
 
 combinations([1,3,4], 4)
-
-#1111111111
-#1111114
-#1117
-#1144
